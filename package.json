@@ -1,0 +1,14 @@
+{
+	"name": "node-watson-app",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"cors": "*",
+		"express": "*",
+		"express-formidable": "^1.0.0",
+		"watson-developer-cloud": "*"
+	}
+}
