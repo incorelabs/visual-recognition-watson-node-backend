@@ -14,7 +14,7 @@ var params = {
 	// An image file (.jpg, .png) or .zip file with images
 	// images_file: fs.createReadStream('./resources/snake.jpg'),
 	images_file: null,
-	classifier_ids: ["1124_v2_1195368744", "default"]
+	classifier_ids: ["CombinedClassifier_1210995163", "default"]
 };
 
 var express = require('express'),
